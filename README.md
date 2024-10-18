@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-I'm Stefan (he/him) - I'm a recent graduate from Flatiron School's Software Engineering program. After spending 15 weeks building web applications, I took the capstone project phase to honor a lifelong interest in gaming and gaming systems by challenging myself to develop a 2D platformer in the Unity Game Engine. Since then, I've hardly looked back - gaming experiences comprise some of my earliest, most core cultural touchpoints and I'm taken with how those experiences are created and the coding languages that govern them.
+I'm Stefan (he/him) - I'm a recent graduate from Flatiron School's Software Engineering program. After spending 15 weeks building web applications, I took the capstone project phase to honor a lifelong interest in gaming and gaming systems by challenging myself to develop a 2D platformer in the Unity Game Engine. Since then, I've hardly looked back - gaming experiences comprise some of my earliest, most core cultural touchpoints and I've since been taken with the object-oriented programming languages that govern their creation.
 
 <p align="center">
   <a href="https://skillicons.dev">
