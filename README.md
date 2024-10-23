@@ -4,7 +4,7 @@ I'm Stefan (he/him) - I'm a recent graduate from Flatiron School's Software Engi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,css,flask,github,html,js,postman,py,sqlite,unity,react" />
+    <img src="https://skillicons.dev/icons?i=git,css,flask,github,html,js,postman,py,sqlite,unity,react" />
   </a>
 </p>
 
