@@ -8,7 +8,7 @@ I'm Stefan (he/him) - I'm a recent graduate from Flatiron School's Software Engi
   </a>
 </p>
 
-- 🔭 I’m currently working on getting certified as a User of the Unity Game Engine and working through John Crickett's coding challenges at codingchallenges.fyi.
+- 🔭 I’m currently working on getting certified as a User of the Unity Game Engine and toying with Digital Asset's flagship programming language, Daml. 
 - 💬 Ask me about my bootcamp experience or the story that got me there.
 - 📫 How to reach me: spla@icloud.com, linkedin.com/in/stefanpla/
 - ⚡ Fun fact: ... I used to game competetively! Smash Bros. Melee, anyone?
